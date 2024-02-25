@@ -1,0 +1,7 @@
+admin admin
+siti 234
+alu 123
+225 12345
+dani 1234
+budi 123
+5 123456
